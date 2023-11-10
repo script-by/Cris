@@ -1,2 +1,1 @@
-# Cris
-Scripts
+DISCORD: cris.3319
